@@ -109,16 +109,15 @@ html {
   transition: background 400ms;
 }
 
-.icon {
-  max-width: 30px;
-  max-height: 30px;
-  margin: 5px;
+.buttontext {
+  text-align: start;
+  width: 60px;
+  color: #000000;
 }
 
-.iconlattes {
-  max-width: 30px;
-  max-height: 26px;
-  margin: 5px;
+.icon {
+  width: 30px;
+  margin-right: 6px;
 }
 
 .footer {
