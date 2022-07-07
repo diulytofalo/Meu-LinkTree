@@ -1,0 +1,138 @@
+/* Para alterar fontes de texto, entrar em "fonts.google.com"
+-> copiar os dois primeiros links, "preconnect" e colar no head do HTML.
+-> o terceiro link vai pro local do HTML onde quero mudar a fonte.
+-> na parte do CSS, copiar o "font-family" e colar no local de alteração da fonte.
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: var(--maintextcolor);
+  }
+  
+  html {
+    background: var(--mainbackground);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  /* variáveis para fazer temas: --example */
+  
+  #brighttheme {
+    --mainbackground: url(https://live.staticflickr.com/2905/14028981322_172b03c5b4_b.jpg);
+    --maintextcolor: rgb(254, 252, 235);
+    --borderpicturecolor: #e1b400;
+    --buttoncolor: #f7de21ea;
+    --darkbuttoncolor: #e1b400;
+    --textbuttoncolor: black;
+    --rocketseatcolor: rgb(237, 232, 198);
+  }
+  
+  #darktheme {
+    --mainbackground: url(https://live.staticflickr.com/3432/3310214210_813d13c899_b.jpg);
+    --maintextcolor: rgb(237, 232, 198);
+    --borderpicturecolor: rgb(237, 232, 198);
+    --buttoncolor: rgb(221, 217, 184);
+    --darkbuttoncolor: rgb(172, 168, 147);
+    --textbuttoncolor: black;
+    --rocketseatcolor: rgb(172, 168, 147);
+  }
+  
+  #greentheme {
+    --mainbackground: #98FB98;
+    --maintextcolor: #1C1C1C;
+    --borderpicturecolor: #2E8B57;
+    --buttoncolor: #2E8B57;
+    --darkbuttoncolor: #1f6f42;
+    --textbuttoncolor: rgb(255, 255, 255);
+    --rocketseatcolor: 	#000000;
+  }
+  
+  .bodybox {
+    text-align: center;
+    width: 300px;
+    margin: 55px auto;
+    border-radius: 5cm;
+  }
+  
+  #theme {
+    width: 0px;
+  }
+  
+  #themebutton {
+    width: 30px;
+    display: flex;
+  }
+  
+  .profilepicture {
+    border-radius: 50%;
+    height: 115px;
+    width: 115px;
+    margin-top: 10px;
+    border: var(--borderpicturecolor) solid 4px;
+    padding: 4px;
+  }
+  
+  .title {
+    margin-top: 24px;
+    margin-bottom: 13px;
+  }
+  
+  .username {
+    opacity: 0.9;
+    font-size: 17px;
+  }
+  
+  .buttonbox {
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 30px;
+  }
+  
+  .button {
+    border: 10%;
+    font-size: 17.5px;
+    display: flex;
+    height: 50px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+    background: var(--buttoncolor);
+    border-radius: 0.3cm;
+    color: var(--textbuttoncolor);
+    transition: background 400ms;
+  }
+  
+  .icon {
+    max-width: 30px;
+    max-height: 30px;
+    margin: 5px;
+  }
+  
+  .iconlattes {
+    max-width: 30px;
+    max-height: 26px;
+    margin: 5px;
+  }
+  
+  .footer {
+    opacity: 0.9;
+  }
+  
+  .rocketseat {
+    transition: background 400ms;
+  }
+  
+  /* pseudo-class hoover -> vai "flutuar" uma característica do elemento quando passar o mouse em cima */
+  
+  .button:hover {
+    background: var(--darkbuttoncolor);
+  }
+  
+  .rocketseat:hover {
+    color: var(--rocketseatcolor);
+  }
