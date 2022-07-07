@@ -66,6 +66,7 @@ html {
 #themebutton {
   width: 30px;
   display: flex;
+  cursor: pointer;
 }
 
 .profilepicture {
