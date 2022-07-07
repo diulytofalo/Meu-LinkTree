@@ -52,9 +52,10 @@ html {
 }
 
 .bodybox {
+  font-family: 'Cormorant Garamond', serif;
   text-align: center;
   width: 300px;
-  margin: 55px auto;
+  margin: 15px auto;
   border-radius: 5cm;
 }
 
@@ -79,10 +80,10 @@ html {
 .title {
   margin-top: 24px;
   margin-bottom: 13px;
+  font-size: 37px;
 }
 
-.username {
-  opacity: 0.9;
+.description {
   font-size: 17px;
 }
 
@@ -120,7 +121,8 @@ html {
 }
 
 .footer {
-  opacity: 0.9;
+  opacity: 0.95;
+  font-size: 16px;
 }
 
 .rocketseat {
