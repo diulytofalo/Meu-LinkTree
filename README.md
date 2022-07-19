@@ -4,6 +4,6 @@ Projeto de site pessoal semelhante ao Linktree, que possibilita o acesso a diver
 
 Desenvolvido na Maratona Explorer 2.0, organizada pela Rocketseat.
 
-<img width="286" alt="image" src="https://user-images.githubusercontent.com/106192001/179660790-37c91641-7357-4ed2-84a3-144d657d180e.png">
+<img width="229" alt="image" src="https://user-images.githubusercontent.com/106192001/179662160-66bab5b7-7592-4fd4-943b-48ae24d02626.png">
 
-<img width="286" alt="image" src="https://user-images.githubusercontent.com/106192001/179660924-aac92f48-9f32-43e6-b0b5-bf2e33b0a047.png">
+<img width="229" alt="image" src="https://user-images.githubusercontent.com/106192001/179662230-181ffe32-8fc3-4a57-a52e-bf6732d27ed6.png">
