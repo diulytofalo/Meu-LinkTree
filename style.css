@@ -22,7 +22,7 @@ html {
 /* variáveis para fazer temas: --example */
 
 #brighttheme {
-  --mainbackground: url(pictures\ and\ icons/#brighttheme);
+  --mainbackground: url(pictures\ and\ icons/brighttheme.jpg);
   --maintextcolor: rgb(254, 252, 235);
   --borderpicturecolor: #e1b400;
   --buttoncolor: #f7de21ea;
@@ -32,7 +32,7 @@ html {
 }
 
 #darktheme {
-  --mainbackground: url(pictures\ and\ icons/#darktheme);
+  --mainbackground: url(pictures\ and\ icons/darktheme.jpg);
   --maintextcolor: rgb(237, 232, 198);
   --borderpicturecolor: rgb(237, 232, 198);
   --buttoncolor: rgb(221, 217, 184);
