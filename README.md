@@ -2,7 +2,7 @@
 
 Projeto de site pessoal semelhante ao Linktree, que possibilita o acesso a diversas redes sociais de forma simples e rápida.
 
-### O que aprendi
+### O que aprendi:
 
 Esse projeto foi desenvolvido durante a Maratona Explorer 2.0, organizada com muito carinho pela Rocketseat: uma plataforma de
 aprendizado contínuo em programação. Durante o evento, pude aprender através das aulas e do apoio da comunidade no discord, as seguintes funcionalidades:
@@ -12,10 +12,10 @@ aprendizado contínuo em programação. Durante o evento, pude aprender através
 - Aplicação de variáveis no CSS para mudança de tema (modo escuro);
 - Funcionalidade do botão de mudança de tema com JavaScript.
 
-### Visualização
+### Visualização:
 
-<img width="229" alt="image" src="https://user-images.githubusercontent.com/106192001/179662160-66bab5b7-7592-4fd4-943b-48ae24d02626.png"> <img width="229" alt="image" src="https://user-images.githubusercontent.com/106192001/179662230-181ffe32-8fc3-4a57-a52e-bf6732d27ed6.png">
+<img height="350" alt="image" src="https://user-images.githubusercontent.com/106192001/179662160-66bab5b7-7592-4fd4-943b-48ae24d02626.png"> <img height="350" alt="image" src="https://user-images.githubusercontent.com/106192001/179662230-181ffe32-8fc3-4a57-a52e-bf6732d27ed6.png">
 
-### Créditos
+### Créditos:
 
 ● Rocketseat - https://www.rocketseat.com.br/
