@@ -1,8 +1,8 @@
-# linktree_maratonaexplorer2.0
-
-## Descrição
+# Linktree - Maratona Explorer 2.0
 
 Projeto de site pessoal semelhante ao Linktree, que possibilita o acesso a diversas redes sociais de forma simples e rápida.
+
+### O que aprendi
 
 Esse projeto foi desenvolvido durante a Maratona Explorer 2.0, organizada com muito carinho pela Rocketseat: uma plataforma de
 aprendizado contínuo em programação. Durante o evento, pude aprender através das aulas e do apoio da comunidade no discord, as seguintes funcionalidades:
