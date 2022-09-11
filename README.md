@@ -18,4 +18,4 @@ aprendizado contínuo em programação. Durante o evento, pude aprender através
 
 ### Créditos:
 
-● Rocketseat - https://www.rocketseat.com.br/
+- Rocketseat - https://www.rocketseat.com.br/
