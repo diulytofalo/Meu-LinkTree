@@ -75,8 +75,8 @@ html {
 
 .profilepicture {
   border-radius: 50%;
-  height: 115px;
-  width: 115px;
+  height: 130px;
+  width: 130px;
   object-fit: scale-down;
   margin-top: 10px;
   border: var(--borderpicturecolor) solid 4px;
